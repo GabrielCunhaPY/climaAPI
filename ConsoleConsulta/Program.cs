@@ -15,7 +15,7 @@ namespace restaurante
         {
             List<Pedidos> pedidos = new List<Pedidos>();
 
-            Console.WriteLine("Informe se pedido.");
+            Console.WriteLine("Informe seu pedido.");
 
             Console.WriteLine("Qual o nome do cliente?");
             string nomeCliente = Console.ReadLine();
