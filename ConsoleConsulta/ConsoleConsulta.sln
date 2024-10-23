@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleConsulta", "ConsoleConsulta.csproj", "{BA93F72D-FFF1-4B70-83C4-C80DB315D96E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{93FC0DCE-9CB3-40E6-8F19-1C717C3D982E}"
+	ProjectSection(SolutionItems) = preProject
+		classPedido.cs = classPedido.cs
+		consultarTemp.cs = consultarTemp.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA93F72D-FFF1-4B70-83C4-C80DB315D96E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA93F72D-FFF1-4B70-83C4-C80DB315D96E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA93F72D-FFF1-4B70-83C4-C80DB315D96E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA93F72D-FFF1-4B70-83C4-C80DB315D96E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {524228C7-0415-4559-A9F7-3627B80CCCBF}
+	EndGlobalSection
+EndGlobal
